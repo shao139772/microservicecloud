@@ -5,13 +5,14 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.cloud.netflix.eureka.EnableEurekaClient;
 
 /**
- * Created by cw on 2018/7/31.
+ * Hello world!
  */
-@SpringBootApplication
-@EnableEurekaClient
-public class DeptConsumer80_App {
 
+@SpringBootApplication
+@EnableEurekaClient   //    本服务启动后会自动注册进eureka服务中
+//@EnableDiscoveryClient//服务发现
+public class DeptProvider8003_App {
     public static void main(String[] args) {
-        SpringApplication.run(DeptConsumer80_App.class, args);
+        SpringApplication.run(DeptProvider8003_App.class, args);
     }
 }
