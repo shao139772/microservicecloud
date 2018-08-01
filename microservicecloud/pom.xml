@@ -16,6 +16,7 @@
         <module>../microservicecloudeureka7003</module>
         <module>../microservicecloudproviderdept8002</module>
         <module>../microservicecloudproviderdept8003</module>
+        <module>../microservicecloudconsumerdeptfeign</module>
     </modules>
     <packaging>pom</packaging>
 
