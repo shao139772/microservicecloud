@@ -11,7 +11,8 @@ import java.util.List;
 /**
  * Created by cw on 2018/8/1.
  */
-@FeignClient(value = "MICROSERVICECLOUD-DEPT")//表示向哪个微服务进行面向接口编程
+@FeignClient(value = "MICROSERVICECLOUD-DEPT", fallbackFactory = DeptClientServiceFallbackFactory.class)
+//表示向哪个微服务进行面向接口编程
 public interface DeptClientService {
 
 
