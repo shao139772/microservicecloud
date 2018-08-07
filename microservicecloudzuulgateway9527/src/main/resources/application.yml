@@ -16,9 +16,19 @@ eureka:
     prefer-ip-address: true
 
 
+
+#使用zuul添加路由映射规则   这个服务对应的路径  使用mydept 这个前缀
+zuul:
+  routes:
+     mydept.serviceId: microservicecloud-dept
+     mydept.path: /mydept/**
+  ignored-services: microservicecloud-dept #服务单入单出将无法再通过  http://myzuul.com:9527/microservicecloud-dept/* 访问
+
+
 info:
   app.name: hhf-microcloud
   company.name: www.hhf.com
   build.artifactId: $project.artifactId$
   build.version: $project.version$
+
 
