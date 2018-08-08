@@ -20,6 +20,7 @@
         <module>../microservicecloudproviderdepthystrix8001</module>
         <module>../microservicecloudconsumerhystrixdashboard</module>
         <module>../microservicecloudzuulgateway9527</module>
+        <module>../microservicecloudconfig3344</module>
     </modules>
     <packaging>pom</packaging>
 
