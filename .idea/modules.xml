@@ -5,6 +5,8 @@
       <module fileurl="file://$PROJECT_DIR$/microservicecloud/microservicecloud.iml" filepath="$PROJECT_DIR$/microservicecloud/microservicecloud.iml" />
       <module fileurl="file://$PROJECT_DIR$/microservicecloudapi/microservicecloudapi.iml" filepath="$PROJECT_DIR$/microservicecloudapi/microservicecloudapi.iml" />
       <module fileurl="file://$PROJECT_DIR$/microservicecloudconfig3344/microservicecloudconfig3344.iml" filepath="$PROJECT_DIR$/microservicecloudconfig3344/microservicecloudconfig3344.iml" />
+      <module fileurl="file://$PROJECT_DIR$/microservicecloudconfigclient3355/microservicecloudconfigclient3355.iml" filepath="$PROJECT_DIR$/microservicecloudconfigclient3355/microservicecloudconfigclient3355.iml" />
+      <module fileurl="file://$PROJECT_DIR$/microservicecloudconfigeurekaclient7001/microservicecloudconfigeurekaclient7001.iml" filepath="$PROJECT_DIR$/microservicecloudconfigeurekaclient7001/microservicecloudconfigeurekaclient7001.iml" />
       <module fileurl="file://$PROJECT_DIR$/microservicecloudconsumerdept80/microservicecloudconsumerdept80.iml" filepath="$PROJECT_DIR$/microservicecloudconsumerdept80/microservicecloudconsumerdept80.iml" />
       <module fileurl="file://$PROJECT_DIR$/microservicecloudconsumerdeptfeign/microservicecloudconsumerdeptfeign.iml" filepath="$PROJECT_DIR$/microservicecloudconsumerdeptfeign/microservicecloudconsumerdeptfeign.iml" />
       <module fileurl="file://$PROJECT_DIR$/microservicecloudconsumerhystrixdashboard/microservicecloudconsumerhystrixdashboard.iml" filepath="$PROJECT_DIR$/microservicecloudconsumerhystrixdashboard/microservicecloudconsumerhystrixdashboard.iml" />

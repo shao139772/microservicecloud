@@ -10,5 +10,5 @@ spring:
       server:
         git:
           uri: git@github.com:shao139772/microservicecloud-config.git #GitHub上面的git仓库名字
-          username: shao139772
-          password: 122360wei&
+#          username: shao139772
+#          password: 122360wei&

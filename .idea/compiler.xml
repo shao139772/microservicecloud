@@ -8,6 +8,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="microservicecloudapi" />
         <module name="microservicecloudconfig3344" />
+        <module name="microservicecloudconfigclient3355" />
         <module name="microservicecloudconsumerdept80" />
         <module name="microservicecloudconsumerdeptfeign" />
         <module name="microservicecloudconsumerhystrixdashboard" />
@@ -25,6 +26,7 @@
       <module name="microservicecloud" target="1.8" />
       <module name="microservicecloudapi" target="1.7" />
       <module name="microservicecloudconfig3344" target="1.8" />
+      <module name="microservicecloudconfigclient3355" target="1.8" />
       <module name="microservicecloudconsumerdept80" target="1.8" />
       <module name="microservicecloudconsumerdeptfeign" target="1.8" />
       <module name="microservicecloudconsumerhystrixdashboard" target="1.8" />

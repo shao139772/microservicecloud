@@ -21,6 +21,8 @@
         <module>../microservicecloudconsumerhystrixdashboard</module>
         <module>../microservicecloudzuulgateway9527</module>
         <module>../microservicecloudconfig3344</module>
+        <module>../microservicecloudconfigclient3355</module>
+        <module>../microservicecloudconfigeurekaclient7001</module>
     </modules>
     <packaging>pom</packaging>
 
