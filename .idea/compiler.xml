@@ -9,6 +9,7 @@
         <module name="microservicecloudapi" />
         <module name="microservicecloudconfig3344" />
         <module name="microservicecloudconfigclient3355" />
+        <module name="microservicecloudconfigdeptclient8001" />
         <module name="microservicecloudconfigeurekaclient7001" />
         <module name="microservicecloudconsumerdept80" />
         <module name="microservicecloudconsumerdeptfeign" />
@@ -28,6 +29,7 @@
       <module name="microservicecloudapi" target="1.7" />
       <module name="microservicecloudconfig3344" target="1.8" />
       <module name="microservicecloudconfigclient3355" target="1.8" />
+      <module name="microservicecloudconfigdeptclient8001" target="1.8" />
       <module name="microservicecloudconfigeurekaclient7001" target="1.8" />
       <module name="microservicecloudconsumerdept80" target="1.8" />
       <module name="microservicecloudconsumerdeptfeign" target="1.8" />
